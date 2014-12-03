@@ -4,6 +4,7 @@ $mod_strings = array (
     'cbsWebFormAccess' => 'Webform Access',
     'SINGLE_cbsWebFormAccess' => 'Webform Access',
 	'cbsWebFormAccess ID' => 'Webform Access ID',
+	'Webform Access' => 'Webform Access',
     'Webform Access No.' => 'Webform Access No.',
     'Access Date' => 'Accesso Data',
     'Access Time' => 'Accesso Tempo',

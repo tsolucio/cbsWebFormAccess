@@ -12,6 +12,7 @@ $mod_strings = Array(
     'cbsWebFormAccess' => 'Webform Access',
     'SINGLE_cbsWebFormAccess' => 'Webform Access',
 	'cbsWebFormAccess ID' => 'Webform Access ID',
+	'Webform Access' => 'Webform Access',
     'Webform Access No.' => 'Webform Access No.',
     'Access Date' => 'Access Date',
     'Access Time' => 'Access Time',
