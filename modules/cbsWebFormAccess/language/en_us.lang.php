@@ -9,15 +9,16 @@
  ************************************************************************************/
 
 $mod_strings = Array(
-    'cbsWebFormAccess' => 'Webform Access',
-    'cbsWebFormAccess' => 'Webform Access',
-    'webformaccessno' => 'Webform Access No.',
-    'access_date' => 'Access Date',
-    'access_time' => 'Access Time',
-    'relid' => 'Related to',
-    'access_url' => 'Access URL',
-    'access_web' => 'Access Web',
-    'submit' => 'Submit',
+    'Webform Access' => 'Webform Access',
+    'SINGLE_Webform Access' => 'Webform Access',
+	'Webform Access ID' => 'Webform Access ID',
+    'Webform Access No.' => 'Webform Access No.',
+    'Access Date' => 'Access Date',
+    'Access Time' => 'Access Time',
+    'Related to' => 'Related to',
+    'Access URL' => 'Access URL',
+    'Access Web' => 'Access Web',
+    'Submit' => 'Submit',
 
     'LBL_CUSTOM_INFORMATION' => 'Custom Information',
     'LBL_CBSWEBFORMACCESS_INFORMATION' => 'Webform Information',
