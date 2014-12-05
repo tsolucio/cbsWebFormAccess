@@ -9,12 +9,20 @@
  ************************************************************************************/
 
 $mod_strings = Array(
-	'ModuleName' => 'Module Name',
-	'SINGLE_ModuleName' => 'Module Name',
-	'ModuleName ID' => 'Module Name ID',
+    'cbsWebFormAccess' => 'Acceso Webform',
+    'SINGLE_cbsWebFormAccess' => 'Acceso Webform',
+	'cbsWebFormAccess ID' => 'ID Acceso Webform',
+	'Webform Access' => 'Acceso Webform',
+    'Webform Access No.' => 'Nº Acceso Webform',
+    'Access Date' => 'Fecha Acceso',
+    'Access Time' => 'Hora Acceso',
+    'Related to' => 'Relacionado con',
+    'Access URL' => 'URL Acceso',
+    'Access Web' => 'Web Acceso',
+    'Submit' => 'Enviado',
 
 	'LBL_CUSTOM_INFORMATION' => 'Información Personalizada',
-	'LBL_MODULEBLOCK_INFORMATION' => 'Información ModuleName',
+	'LBL_CBSWEBFORMACCESS_INFORMATION' => 'Información Acceso Webform',
 	'LBL_DESCRIPTION_INFORMATION' => 'Descripción',
 
 );
