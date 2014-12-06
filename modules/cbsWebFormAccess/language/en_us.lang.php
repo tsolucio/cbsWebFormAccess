@@ -12,7 +12,6 @@ $mod_strings = Array(
     'cbsWebFormAccess' => 'Webform Access',
     'SINGLE_cbsWebFormAccess' => 'Webform Access',
 	'cbsWebFormAccess ID' => 'Webform Access ID',
-	'Webform Access' => 'Webform Access',
     'Webform Access No.' => 'Webform Access No.',
     'Access Date' => 'Access Date',
     'Access Time' => 'Access Time',
@@ -20,6 +19,9 @@ $mod_strings = Array(
     'Access URL' => 'Access URL',
     'Access Web' => 'Access Web',
     'Submit' => 'Submit',
+	'websiteid' => 'Website ID',
+	'extcmpid' => 'External Campaign',
+	'cmpid' => 'Campaign',
 
     'LBL_CUSTOM_INFORMATION' => 'Custom Information',
     'LBL_CBSWEBFORMACCESS_INFORMATION' => 'Webform Information',
